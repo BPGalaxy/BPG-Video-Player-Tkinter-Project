@@ -1,6 +1,8 @@
 This is a video player. but with a difference...
 you can watch a movie with someone else easily using this video player with cync option. using cync option you both can select a video file locally and then choose a time to play the movie. then the movie will be played at the exact time you both set and then you both can watch the movie all cynced long distance.
 
+<img width="799" height="631" alt="image" src="https://github.com/user-attachments/assets/1be78ddb-2eea-40fa-9254-7016080cb78a" />
+
 IMPORTANT
 --
 You need to have vlc installed on your computer so this program will work.
