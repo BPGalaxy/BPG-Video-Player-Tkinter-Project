@@ -1,0 +1,6 @@
+aaa.iss
+*.exe
+Patch Note *.txt
+Icon
+{autopf}
+__pycache__
